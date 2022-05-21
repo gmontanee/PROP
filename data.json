@@ -1,0 +1,12 @@
+{
+    "test":{
+        "fulla 1":{
+            "a1": "valor1",
+            "a2": "valor2"
+        },
+        "fulla 2": {
+            "a1":"hello",
+            "b1":"world"
+        }
+    }
+}
